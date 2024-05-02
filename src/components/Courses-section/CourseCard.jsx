@@ -26,10 +26,10 @@ const CourseCard = (props) => {
           <p className="rating d-flex align-items-center gap-1">
             <i class="ri-star-fill"></i> {rating}K
           </p>
-          // eslint-disable-next-line
+          
           <p className="enroll d-flex align-items-center gap-1">
-         
-            <a href="#"> Enroll Now</a>
+            {/*  eslint-disable-next-line */}
+            <a href="https://google.com"> Enroll Now </a>
           </p>
         </div>
       </div>
