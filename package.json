@@ -2,7 +2,7 @@
   "name": "ecommerce-website-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/build",
+  
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
